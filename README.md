@@ -1,9 +1,8 @@
-### Hi there 👋
+### 💻 Apresentando: Edson Rocha's Code Journey ✨
 
-<!--
-**dsnfeels/dsnfeels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Olá, sou Edson Rocha! 👋
 
-Here are some ideas to get you started:
+🌟 Explorando o mundo do código, um commit por vez! 🚀
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
