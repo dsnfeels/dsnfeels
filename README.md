@@ -6,5 +6,3 @@ Olá, sou Edson Rocha! 👋
 
 <div>
  
-(https://github-readme-stats.vercel.app/api?username=dsnfeels&show_icons=true&theme=dracula)
-</div>
