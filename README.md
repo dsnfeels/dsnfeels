@@ -12,6 +12,8 @@ Olá, sou o Edson Rocha! 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+
 ### Tecnologias que uso 💡
 
 <div style="display: inline_block">
